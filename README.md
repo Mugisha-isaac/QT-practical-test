@@ -11,10 +11,6 @@ This project demonstrates a Qt application that [brief description of functional
 2. Build the project: `cd QT-practical-test && mvn clean install`
 
 
-**Usage:**
-
-[Instructions on how to use the application]
-
 **Testing:**
 
 To run tests: `mvn test`
